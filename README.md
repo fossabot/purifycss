@@ -1,4 +1,6 @@
 # PurifyCSS
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fpurifycss.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fpurifycss?ref=badge_shield)
+
 
 * Detects which CSS classes your app is using and creates a file without the unused CSS.
 
@@ -149,3 +151,7 @@ options:
 # At build time
 [Grunt](https://github.com/purifycss/grunt-purify-css)
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fpurifycss.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fpurifycss?ref=badge_large)
